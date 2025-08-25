@@ -67,13 +67,10 @@ OCR: Python OCR libraries
 Version Control: GitHub
 
 **Work flow of the project**
+  **i)**
+   <img width="828" height="894" alt="image" src="https://github.com/user-attachments/assets/7014e319-673d-4ec9-85e0-0a96f590926c" />
 
-<img width="828" height="894" alt="image" src="https://github.com/user-attachments/assets/7014e319-673d-4ec9-85e0-0a96f590926c" />
-
-
-**Work flow of the project**
-
-  
+  **ii)**
   <img width="749" height="839" alt="image" src="https://github.com/user-attachments/assets/7b7a1c79-8c18-4bbb-82aa-3df30f286f24" />
 
 
